@@ -1,0 +1,5 @@
+module CLibSWResample [system] {
+  header "swresample.h"
+  link "swresample"
+  export *
+}
